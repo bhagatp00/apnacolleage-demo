@@ -1,3 +1,4 @@
 # apnacolleage-demo
 This is my First Repository
-  Author - Pravin Mahajan
+<br>
+Author - Pravin Mahajan
